@@ -34,4 +34,5 @@ tableauserverclient
 schedule
 sendgrid*
 
+Updated urllib3
 Note: the sendgrid python library package requires you to create a SENDGRID_API_KEY thru their website, and to set that variable locally in the CLI ( set SENDGRID_API_KEY = "...") after installation.
