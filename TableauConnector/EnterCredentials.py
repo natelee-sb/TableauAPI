@@ -40,7 +40,8 @@ def enterCredentials():
 
 
 def enterCredentailsAutomatic():
-
+	# Example of how creds get entered - recommend calling from connector store, especially password
+	
 	username = "Lee Nate"
 	passwd = "helloworld1!"
 	serverInstance = "https://tableau.BCG.com"
