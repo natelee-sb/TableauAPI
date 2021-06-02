@@ -1,5 +1,5 @@
 tableauserverclient==0.8
 schedule==0.6.0
 sendgrid==6.0.4
-urllib3==1.25.1
+urllib3==1.26.5
 
